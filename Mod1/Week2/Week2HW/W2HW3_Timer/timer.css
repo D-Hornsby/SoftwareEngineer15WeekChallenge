@@ -1,0 +1,43 @@
+
+
+.blue {
+  background-color: #0781D4;
+  height: 300px;
+  width: 300px;
+  border-radius: 50%;
+  box-shadow: 3px 7px gray;
+  font-size: 15px;
+  font-weight: bold;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.red {
+  background-color: red;
+  height: 300px;
+  width: 300px;
+  border-radius: 50%;
+  box-shadow: 3px 7px gray;
+  font-size: 15px;
+  font-weight: bold;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/*Styles the input box */
+/*txtTempo is for the input box and the min box*/
+#txtTempo {
+  line-height: 100px;
+  font: 30px Georgia;
+  background-color:#85C1E9;
+  text-align: center;
+}
+/*this styles the seconds box*/
+#txtTempo1 {
+  line-height: 100px;
+  font: 30px Georgia;
+  background-color:#85C1E9;
+  text-align: center;
+}
