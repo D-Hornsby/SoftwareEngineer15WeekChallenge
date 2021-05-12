@@ -6,6 +6,8 @@ Perscholas Software Engineer course.
 File restructure
 bootcamp refined
 
+Some of these codes are still a work im progress!!
+
 
 Software Engineer bootcamp threw Perscholas. Below is an outline or our course. I am still working on many of the files. 
 
