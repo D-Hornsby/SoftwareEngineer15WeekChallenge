@@ -11,6 +11,8 @@ Some of these codes are still a work im progress!!
 
 Software Engineer bootcamp threw Perscholas. Below is an outline or our course. I am still working on many of the files. 
 
+#### Prework  Insturcted to create our first website with some basic HTML and CSS directions per slides
+
 ## In Mod 1
 
 #### W1D2ML    Android Robot With CSS
